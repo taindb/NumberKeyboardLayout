@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Number Keyboard -->
+    <color name="keyboard.background">#020b3a</color>
+    <color name="keyboard.key_pressed_bg">#50ffffff</color>
+    <color name="keyboard.text_color">#ffffff</color>
+</resources>
