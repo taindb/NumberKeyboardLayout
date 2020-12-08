@@ -2,10 +2,10 @@
 
 ------
 A number keyboard has nearly full function of System Keyboard. <br />
-I only focus to create a number decimal keyboard, But I have implemented some event to get usefully for my keyboard. <br />
-I hope you will get more benefit from it, so you can custom a owner keyboard with text only, number un-sign only, phone only, password only ... etc. <br />
+I only focus to create a number decimal keyboard, But I have implemented some events to get usefully for my keyboard. <br />
+I hope you will get more benefit from it, so you can custom an owner keyboard with text only, number un-sign only, phone only, password only ... etc. <br />
 
-height of keyboard will equal 1/3 screen height. you can set height with new number if you want
+The height of keyboard will equal 1/3 the screen height. you can set new one with a specific number if you want
 ```
  <com.taindb.library.NumberKeyboardLayout
             android:id="@+id/numberKeyBoard"
